@@ -1,3 +1,6 @@
+Pengenalan Django Framework
+===========================
+
 Apa itu Django Framework?  
 -------------------------
 Django adalah Python web framework yang mendukung pembuatan web dengan sangat cepat. Mengadopsi sistem MTV, yaitu Model, Template dan View.
@@ -31,7 +34,7 @@ Download Django source code
 Ekstrak file tersebut, contoh (Linux)
 ::
 
-    $tar -xvf Django-1.1.1.tar.gz
+    tar -xvf Django-1.1.1.tar.gz
 
 Masuk ke dalam folder hasil ekstrak sebelumnya. Lalu lakukan instalasi Django
 ::
