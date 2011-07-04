@@ -7,7 +7,7 @@
 Python
 ======
 
- :doc:`The Python Paradox <python/the-python-paradox>` diterjemahkan oleh Gilang Chandrasa
+ 
    
 Django framework
 ===============
