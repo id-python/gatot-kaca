@@ -3,18 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to gatot-kaca's documentation!
-======================================
 
-Contents:
+Python
+======
 
-.. toctree::
-   :maxdepth: 2
+ :doc:`The Python Paradox <python/the-python-paradox>` diterjemahkan oleh Gilang Chandrasa
+   
+Django framework
+===============
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+ :doc:`Pengenalan Django Framework <django/pengenalan-django-framework>` ditulis oleh Gilang Chandrasa
