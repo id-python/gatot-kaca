@@ -1,0 +1,1 @@
+Ini adalah proyek penulisan artikel/tutorial sebagai sarana pengembangan programmer Python Indonesia.
