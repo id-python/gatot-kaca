@@ -13,3 +13,8 @@ Django framework
 ================
 
  :doc:`Pengenalan Django Framework <django/pengenalan-django-framework>` ditulis oleh Gilang Chandrasa
+ 
+Cookbok
+=======
+ 
+ :doc:`Python Cookbook <cookbook/python-cookbook>` ditulis oleh Komunitas Python Indonesia
