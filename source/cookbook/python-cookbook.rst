@@ -16,4 +16,22 @@ Hal yang sama jika dilakukan dalam bahasa C::
 	b = c
 	c = temp
 	
+Mengambil Sebuah Nilai dari Dictionary
+---------------------------------------
+Misalnya akan diambil nilai berdasarkan kunci dari dictionary::
+
+    d ={'try':'coba', 'again':'lagi'}
+
+cara yang sering dilakukan adalah mengecek apakah dictionary memiliki kunci yang diminta::
+
+    if d.has_key('try'):
+        print d['try']
+    else:
+        print 'nggak ketemu'
+		
+namun ada cara yang lebih sederhana::
+
+    print d.get('try', 'nggak ketemu')
+
+lebih sederhana dan mempersedikit kesalahan ketik
     
