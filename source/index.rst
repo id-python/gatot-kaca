@@ -3,13 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+Gatot Kaca Project
+==================
 
-Python
-======
+.. toctree::
+  :maxdepth: 2
 
- :doc:`Python Untuk Programmer PHP <python/python-untuk-programmer-php>` ditulis oleh Gilang Chandrasa 
-   
-Django framework
-================
-
- :doc:`Pengenalan Django Framework <django/pengenalan-django-framework>` ditulis oleh Gilang Chandrasa
+  python/index
+  django/index
