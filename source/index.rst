@@ -6,8 +6,22 @@
 Gatot Kaca Project
 ==================
 
+Selamat datang di Gatot Kaca Project. Ini adalah proyek penulisan artikel/tutorial sebagai sarana pengembangan programmer Python Indonesia.
+
+Daftar Isi
+----------
+
 .. toctree::
   :maxdepth: 2
 
   python/index
   django/index
+  
+Daftar Penulis
+--------------
+
+* `Gilang Chandrasa <http://komunitasweb.com>`_
+
+
+Daftar Sponsor
+--------------
