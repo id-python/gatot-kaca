@@ -21,7 +21,7 @@ Daftar Penulis
 --------------
 
 * `Gilang Chandrasa <http://komunitasweb.com>`_
-
+* Mico Siahaan
 
 Daftar Sponsor
 --------------
