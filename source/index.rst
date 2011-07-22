@@ -7,7 +7,9 @@
 Python
 ======
 
- :doc:`Python Untuk Programmer PHP <python/python-untuk-programmer-php>` ditulis oleh Gilang Chandrasa 
+ :doc:`Python Untuk Programmer PHP <python/python-untuk-programmer-php>` ditulis oleh Gilang Chandrasa
+ 
+ :doc:`Pemrograman Python di Windows <python/python-di-windows>` ditulis oleh Mico Siahaan
    
 Django framework
 ================
