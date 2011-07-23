@@ -118,6 +118,7 @@ kemudian simpan. Kita menambahkan beberapa kalimat yang diawali oleh tanda *poun
 Hasil/keluaran program tetap sama. 
 
 Lalu untuk apa kita menambahkan komentar dalam program kita? Menambahkan komentar dalam program adalah kebiasaan yang baik untuk membantu kita mengingat apa maksud potongan program kita. Jika di masa datang kita akan membaca program terebut, komentar akan membantu kita mengingat maksud dan tujuan dari potongan program kita. Jadi jangan ragu-ragu untuk memberikan komentar dalam program yang Anda buat!
+
 Bilangan dan Variabel
 ======================
 
