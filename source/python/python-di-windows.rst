@@ -23,7 +23,6 @@ Beberapa catatan dalam tutorial ini:
 
 Akhirnya selamat belajar Python!
 
-
 Instalasi dan Memulai Python
 =============================
 
@@ -300,4 +299,34 @@ apabila dijalankan akan membangkitkan pesan kesalahan::
     IndentationError: expected an indented block
 
 *IndentationError* kata python.
+
+
+if...else...
+------------
+
+*if...else...* adalah statement yang mengindikasikan bahwa sebuah bagian program akan dijalankan apabila sebuah kondisi terpenuhi. Contoh program yang lebih sederhana::
+
+    a = 4
+    b = 5
+
+    if a > b:
+        print a, 'lebih besar dari', b
+    elif a == b:
+        print a, 'sama dengan', b
+    else:
+        print a, 'lebih kecil dari', b
+
+Apabila dijalankan::
+
+    4 lebih kecil dari 5
+	
+*elif* memungkinkan ada lebih dari sebuah kondisi.
+
+Rangkuman
+---------
+Pada bagian ini kita telah belajar mengenai:
+
+* *while* statement
+* indentasi
+* *if...else...* statement
 
