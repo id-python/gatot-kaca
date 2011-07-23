@@ -34,4 +34,17 @@ namun ada cara yang lebih sederhana::
     print d.get('try', 'nggak ketemu')
 
 lebih sederhana dan mempersedikit kesalahan ketik
-    
+
+Menampilkan index dari suatu iterable (list, dictionary)
+--------------------------------------------------------
+
+Jika kita ingin menampilkan index dalam loop, kita bisa menggunakan enumerate, contoh : ::
+
+    >>> a = ["apple", "banana", "orange", "mango", "grape"]
+    >>> for index, item in enumerate(a):
+    >>>     print index, item
+    0 apple
+    1 banana
+    2 orange
+    3 mango
+    4 grape
