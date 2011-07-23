@@ -35,6 +35,7 @@ namun ada cara yang lebih sederhana::
 
 lebih sederhana dan mempersedikit kesalahan ketik
 
+
 Menampilkan index dari suatu iterable (list, dictionary)
 --------------------------------------------------------
 
@@ -48,3 +49,22 @@ Jika kita ingin menampilkan index dalam loop, kita bisa menggunakan enumerate, c
     2 orange
     3 mango
     4 grape
+
+
+Fungsi untuk Membuat Dictionary
+--------------------------------
+Dalam membuat aplikasi python, dictionary adalah tipe data yang sering digunakan. Misalnya ingin membuat dictionary untuk translasi bahasa Inggris ke Indonesia seperti ini::
+
+    kamus = {'red' : 'merah', 'green' : 'hijau', 'blue' : 'biru'}
+	
+kita dapat memubuat fungsi yang memudahkan kita untuk membuat dictionary seperti di atas::
+
+    def makedict(**kwargs):
+	    return kwargs
+		
+	kamus = makedict(red='merah', green='hijau', blue='biru')
+	
+dan hasilnya::
+
+    >>> print kamus
+    {'blue': 'biru', 'green': 'hijau', 'red': 'merah'}
