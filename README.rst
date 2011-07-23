@@ -24,17 +24,13 @@ Update terbaru akan selalu ditampilkan dalam website project ini dan source akan
 Note
 ----
 
-Untuk para kontributor, agak repositori yang anda fork selalu up to date dengan repositori utama lakukan hal berikut :
-
-.. code-block:: bash
+Untuk para kontributor, agak repositori yang anda fork selalu up to date dengan repositori utama lakukan hal berikut : ::
 
     git remote add upstream git://github.com/id-python/gatot-kaca.git
     git fetch upstream
     git merge upstream/master
 
-Untuk selanjutkan, tidak perlu melakukan remote add kembali cukup dengan :
-    
-.. code-block:: bash
-    
+Untuk selanjutkan, tidak perlu melakukan remote add kembali cukup dengan : ::
+
     git fetch upstream
     git merge upstream/master
