@@ -166,7 +166,7 @@ Contoh di atas kisah rekaan namun saya ingin menyajikan beberapa konsep yang pen
 
     ayam = 10 + 15 + 36 / 6 + 45 - 2
 	
-*ayam* adalah sebuah variabel. Apakah variabel itu? *Variabel* adalah sebuah identitas dari sebuah tempat dalam memori yang menyimpan data. Variabel *ayam* di atas menyimpan data dalam memori yang berupa data bilangan bulangan bulat. Sebelum data disimpan dalam variabel *ayam* kita melakukan beberapa operasi bilangan. Operasi bilangan ditandai dengan penggunaan *operator* bilangan / matematika. Jenis-jenis *operator* yang dikenal
+*ayam* adalah sebuah variabel. Apakah variabel itu? *Variabel* adalah sebuah identitas dari sebuah tempat dalam memori yang menyimpan data. Variabel *ayam* di atas menyimpan data dalam memori yang berupa data bilangan bulangan bulat. Sebelum data disimpan dalam variabel *ayam* kita melakukan beberapa operasi bilangan. Operasi bilangan ditandai dengan penggunaan *operator* bilangan / matematika. Jenis-jenis *operator matematika* yang dikenal
 
 ========  ====
 Operator  Arti           
@@ -323,6 +323,22 @@ Apabila dijalankan::
 	
 *elif* memungkinkan ada lebih dari sebuah kondisi.
 
+Operator perbandingan
+---------------------
+
+Dalam menyatakan kondisi perbandingan, kita menggunakan *operator perbandingan*. Operator perbandingan yang dikenal:
+
+========  ====
+Operator  Arti           
+========  ====
+<         Lebih kecil dari    
+<=        Lebih kecil atau sama dengan    
+>         Lebih besar dari      
+>=        Lebih besar atau sama dengan
+==        Sama dengan
+!=        Tidak sama dengan      
+========  ====
+
 Rangkuman
 ---------
 Pada bagian ini kita telah belajar mengenai:
@@ -461,4 +477,42 @@ yang apabila dijalankan akan memberikan hasil yang sama::
     10 Citra
 	
 *contoh5.py* kita perlu mengetikkan 21 baris program (tanpa menghitung komentar dan baris kosong), dibandingkan hanya 6 baris program di *contoh5a.py*. Bayangkan jika pembeli ada 100 orang!
+
+Indeks
+-------
+
+Nah, mari kita tilik kembali bagian program dari *contoh5a.py*::
+
+    cacah = 0
+        while cacah < 10:
+            print cacah+1, pelanggan[cacah]
+            cacah = cacah + 1
+			
+kita mendefinisikan sebuah variabel *cacah* yang dalam perulangan *while...* nilainya dinaikkan satu demi satu (cacah = cacah + 1). Variabel *cacah* kemudan digunakan untuk memanggil anggota dari *list* *pelanggan* (pelanggan[cacah]). Di sini kita memanggil anggota list melalui *indeks*. Indeks merupakan bilangan yang menunjukkan urutan letak anggota. Indeks mirip seperti saat kita bersekolah dulu, masing-masing kita mendapat no urut kelas (saat kuliah no urut kelas saya 22....) sehingga saat awal pelajaran dosen memanggil "22! Mico!" maka saya menjawab: "22, hadir!". Namun perlu diingat, jika no urut kelas dimulai dari *1*,, *indeks* untuk *list* maupun *tuple* dimulai dari *0*. Sehingga jika kita memiliki list::
+
+    pelanggan = ["Bejo", "Karyo", "Tarjo", "Udin", "Asep", "Aminah", "Iyah", "Joni", "Siti", "Citra"]
+ 
+maka::
+
+    pelanggan[0] = "Bejo"
+    pelanggan[1] = "Karyo"
+    pelanggan[2] = "Tarjo"
+	
+dan seterusnya.
+
+in
+---
+
+*in* adalah operator dalam Python untuk mengetes apakah sebuah nilai merupakan anggota dari sebuah *list* atau *tuple*, misalnya::
+
+    pelanggan = ["Bejo", "Karyo", "Tarjo", "Udin", "Asep", "Aminah", "Iyah", "Joni", "Siti", "Citra"]
+    print "Udin" in pelanggan
+    print "Thomas" in pelanggan
+	
+akan menghasilkan::
+
+    True
+    False
+	
+atau dengan kata lain: "Udin" adalah anggota pelanggan, sedangkan "Thomas" bukan salah satu anggota pelanggan
 
