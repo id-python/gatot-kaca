@@ -2,7 +2,7 @@ Python Cookbook
 ================
 
 Menukar Nilai Antar Variabel tanpa Variabel Sementara
-----------------------------------------------------
+-----------------------------------------------------
 Untuk menukar nilai antar variabel di dalam python tidak perlu menggunakan variabel sementara, misalnya untuk menukar nilai antar variabel a,b,c
 
 Python::
@@ -35,6 +35,22 @@ namun ada cara yang lebih sederhana::
 
 lebih sederhana dan mempersedikit kesalahan ketik
 
+
+Menampilkan index dari suatu iterable (list, dictionary)
+--------------------------------------------------------
+
+Jika kita ingin menampilkan index dalam loop, kita bisa menggunakan enumerate, contoh : ::
+
+    >>> a = ["apple", "banana", "orange", "mango", "grape"]
+    >>> for index, item in enumerate(a):
+    >>>     print index, item
+    0 apple
+    1 banana
+    2 orange
+    3 mango
+    4 grape
+
+
 Fungsi untuk Membuat Dictionary
 --------------------------------
 Dalam membuat aplikasi python, dictionary adalah tipe data yang sering digunakan. Misalnya ingin membuat dictionary untuk translasi bahasa Inggris ke Indonesia seperti ini::
@@ -52,7 +68,3 @@ dan hasilnya::
 
     >>> print kamus
     {'blue': 'biru', 'green': 'hijau', 'red': 'merah'}
-	
-
-	
-    

@@ -32,15 +32,17 @@ Sebelum memulai instalasi Django, pastikan Python terinstal dalam sistem operasi
 
 Download Django source code
 Ekstrak file tersebut, contoh (Linux)
-::
 
-    tar -xvf Django-1.1.1.tar.gz
+.. code-block:: bash
+
+    $tar -xvf Django-1.1.1.tar.gz
 
 Masuk ke dalam folder hasil ekstrak sebelumnya. Lalu lakukan instalasi Django
-::
 
-    cd Django-1.1.1
-    sudo python setup.py install
+.. code-block:: bash
+
+    $cd Django-1.1.1
+    $sudo python setup.py install
 
 Selamat. Django telah terinstal dalam sistem anda.
 
@@ -69,9 +71,10 @@ Buka urls.py, lalu berikan url seperti berikut : ::
     )
 
 Jalankan Django development server dengan perintah
-::
 
-    ./manage.py runserver
+.. code-block:: bash
+
+    $./manage.py runserver
 
 Buka browser anda, dan akses alamat berikut http://localhost:8000
 

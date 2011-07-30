@@ -1,13 +1,16 @@
+Python di Windows
+=================
+
 Pengantar
-==========
+---------
 
 Tutorial ini dibuat sebagai jawaban dalam milis python Indonesia mengenai ketiadaan dokumentasi python dalam bahasa Indonesia. Maka timbul beberapa usulan untuk:
 
 * menerjemahkan tutorial python yang sudah terkenal misalnya `Byte of Python`_. 
 
-.. _Byte of Python: http://www.swaroopch.com/notes/Python>`_.
-
 * membuat tutorial baru dalam berbahasa Indonesia
+
+.. _Byte of Python: http://www.swaroopch.com/notes/Python>`_.
 
 Tutorial ini merupakan inisiatif yang kedua: membuat tutorial baru berbahasa Indonesia. 
 
@@ -15,19 +18,19 @@ Beberapa catatan dalam tutorial ini:
 
 * Tutorial ini menggunakan Python 2. Saat ini versi terbaru adalah Python 3. Python 3 tidak kompatibel dengan Python 2. yang baru dari Python 3 dapat dibaca di  situs `Python`_. Namun karena mayoritas modul/packages yang ada masih menggunakan Python 2, maka saya memutuskan untuk menggunakan Python 2 sebagai dasar tutorial. Saya menggunakan Python 2.6.6.
 
-.. _Python: http://docs.python.org/py3k/whatsnew/3.0.html
-
 * Saya menggunakan sistem operasi Windows, secara sepesifil saya menggunakan Windows 7. Walau python memang dapat berjalan di sistem operasi lain, contoh tampilan ataupun *screenshot* yang ditampilkan di tutorial ini menampilkan tampilan di Windows. Walau dasar-dasar python yang diajarkan di tutorial ini pada dasarnya sama untuk sistem operasi lain: Unix, Linux, MacOS
 
 * Saya sedapat mungkin tidak menggunakan instilah-instilah yang berbau teknis, namun jikalau harus menggunakan istilah-istilah komputer/teknis, saya akan menggunakan istilah-istilah komputer yang sudah dikenal, walau dalam bahasa Inggris. Misalnya saya memilih menggunakan kata *File* dibandingkan *Berkas* dengan anggapan bahwa istilah *File* lebih dikenal dibandingkan *Berkas*
 
+.. _Python: http://docs.python.org/py3k/whatsnew/3.0.html
+
 Akhirnya selamat belajar Python!
 
 Instalasi dan Memulai Python
-=============================
+----------------------------
 
 Instalasi Python
------------------
+~~~~~~~~~~~~~~~~
 
 Tentu saja sebelum mempelajari pemrograman Python di Windows, Anda perlu melakukan instalasi Python.
 
@@ -44,7 +47,7 @@ Saat saya menulis tutorial ini versi yang terakhir adalah versi 2.7.2. Saya pili
 Setelah proses *download* selesai. Klik *2x* file installer, maka proses instalasi Python dimulai. Proses Instalasi Python sama saja dengan proses instalasi aplikasi Windows lainnya.
 
 Memulai Python
----------------
+~~~~~~~~~~~~~~
 
 Setelah proses instalasi selesai, maka Python dapat dijalankan sama juga seperti aplikasi Windows lainnya. Di Windows 7 saya:
 
@@ -73,7 +76,7 @@ Selamat! Anda telah membuat program Python pertama Anda! Untuk menjalankan progr
 .. image:: images/contoh1.png    
 
 Rangkuman
-----------
+~~~~~~~~~
 
 Pada bagian ini kita telah mempelajari tentang:
 
@@ -84,7 +87,7 @@ Pada bagian ini kita telah mempelajari tentang:
 Selamat! Kini Anda boleh mengatakan kepada keluarga dan teman-teman Anda bahwa Anda adalah seoarang *Python Programmer*
 
 Tentang Program Pertama Kita
-=============================
+----------------------------
 
 Baiklah marilah kita kembali sebentar ke program pertama kita::
 
@@ -120,10 +123,10 @@ Hasil/keluaran program tetap sama.
 Lalu untuk apa kita menambahkan komentar dalam program kita? Menambahkan komentar dalam program adalah kebiasaan yang baik untuk membantu kita mengingat apa maksud potongan program kita. Jika di masa datang kita akan membaca program terebut, komentar akan membantu kita mengingat maksud dan tujuan dari potongan program kita. Jadi jangan ragu-ragu untuk memberikan komentar dalam program yang Anda buat!
 
 Bilangan dan Variabel
-======================
+---------------------
 
 Ayam dan Bebek
----------------
+~~~~~~~~~~~~~~
 
 Anda bekerja di pedagang ayam dan bebek, dan suatu saat Boss meminta: "Tolong hitung pendapatan kita bulan ini! SEKARANG!". Karena Anda seorang *Python Programmer* maka,
 
@@ -185,7 +188,7 @@ Sebagai catatan tambahan, Python juga mengenal jenis data bilangan selain bilang
 *Operator* yang bekerja atas bilangan *real/flot* dan *imajiner* sama dengan operator bilangan bulat. Silakan dicoba sendiri ya!
 
 Rangkuman
-----------
+~~~~~~~~~
 
 Melalui contoh singkat di atas kita telah belajat tentang
 
@@ -193,7 +196,7 @@ Melalui contoh singkat di atas kita telah belajat tentang
 * operasi matematika/bilangan
 
 Diskon....Diskon...
-====================
+-------------------
 
 Kembali ke kisah fiksi di bagian sebalumnya, Anda menghadap Boss dengan hasil: "Pendapatan kita bulan ini: Rp. 9.290.000, Boss!". Boss bertanya: "Ok, apakah itu sudah memperhitungkan diskon 25% untuk pembeli ayam ke-50 dan bebek ke-50? Bulan ini kita promo, lho!". Yah, bagaimana ini si Boss? Kok baru bilang?
 
@@ -255,7 +258,7 @@ maka Anda pun kembali ke Boss dengan jawaban: "Ok, boss, pendapatan kita bulan i
 Masih mengikuti? Ada 3 konsep yang ingin ditunjukkan dalam contoh program di atas:
 
 while
-------
+~~~~~
 
 *while* adalah *statement* yang mengindikasikan bahwa kita ingin mengulang sebuah bagian program selama kondisi perulangan masih terpenuhi. Contoh yang lebih sederhana dari contoh program kita::
 
@@ -281,7 +284,7 @@ yang apabila dijalankan::
 kita mencetak nilai variabel *b* selama nilai *b* lebih kecil atau sama dengan nilai variabel *a*. 
 
 Indentasi
----------
+~~~~~~~~~
 
 Bagian-bagian program dari sebuah program python ditunjukkan dengan indentasi/perataan. Jadi jangan lupa untuk menambahkan spasi pada bagian program yang diulang. Misalnya Anda lupa menambahkan spasi seperti berikut::
 

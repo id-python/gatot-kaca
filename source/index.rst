@@ -3,20 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+Gatot Kaca Project
+==================
 
-Python
-======
+Selamat datang di Gatot Kaca Project. Ini adalah proyek penulisan artikel/tutorial sebagai sarana pengembangan programmer Python Indonesia.
 
- :doc:`Python Untuk Programmer PHP <python/python-untuk-programmer-php>` ditulis oleh Gilang Chandrasa
- 
- :doc:`Pemrograman Python di Windows <python/python-di-windows>` ditulis oleh Mico Siahaan
-   
-Django framework
-================
+Daftar Isi
+==========
 
- :doc:`Pengenalan Django Framework <django/pengenalan-django-framework>` ditulis oleh Gilang Chandrasa
- 
-Cookbook
-=======
- 
- :doc:`Python Cookbook <cookbook/python-cookbook>` ditulis oleh Komunitas Python Indonesia
+.. toctree::
+  :maxdepth: 2
+
+  python/index
+  django/index
+  
+Daftar Penulis
+--------------
+
+* `Gilang Chandrasa <http://komunitasweb.com>`_
+* Mico Siahaan
+
+Daftar Sponsor
+--------------
