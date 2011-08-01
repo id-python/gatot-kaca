@@ -3,26 +3,52 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+==================
 Gatot Kaca Project
 ==================
 
 Selamat datang di Gatot Kaca Project. Ini adalah proyek penulisan artikel/tutorial sebagai sarana pengembangan programmer Python Indonesia.
 
-Daftar Isi
-==========
+Ayo kita mulai belajar Python
+=============================
+    
+* **Awal :**
+  :doc:`Instalasi <intro/install>` 
 
-.. toctree::
-  :maxdepth: 2
+* **Tutorial :**
+  :doc:`Bagian 1 <intro/tutorial01>` |
+  :doc:`Bagian 2 <intro/tutorial02>` 
 
-  python/index
-  django/index
-  
+
+List, Dictionaries dan Tuple
+============================
+* :doc:`List dan Tuple <topics/data-structures/list-and-tuple>`
+
+Butuh bantuan
+=============
+* Cobalah untuk membaca :doc:`FAQ <faq/index>`
+* Untuk tips dan trik, silahkan lihat :doc:`Buku Resep Python <topics/cookbook>`
+
+
+Django
+======
+
+* **Awal :**
+  :doc:`Pengenalan <topics/django/overview>` 
+
+* **Tutorial :**
+  :doc:`Bagian 1 <topics/django/tutorial01>` |
+ 
+Lainnya
+=======
+* :doc:`pip, virtualenv and virtualenvwrapper <topics/pip-virtualenv-virtualenvwrapper>`
+* :doc:`Git dan Github 101 <misc/git-and-github-101>`
+* :doc:`Vim, multiplatform editor <misc/vim>`
+
 Daftar Penulis
---------------
+==============
 
 * `Fanami M. Ihsan <http://http://fanani.net/>`_
 * `Gilang Chandrasa <http://komunitasweb.com>`_
 * Mico Siahaan
-
-Daftar Sponsor
---------------
+                                               

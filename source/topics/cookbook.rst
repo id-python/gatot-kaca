@@ -1,8 +1,10 @@
-Python Cookbook
-================
+=================
+Buku Resep Python
+=================
 
 Menukar Nilai Antar Variabel tanpa Variabel Sementara
------------------------------------------------------
+=====================================================
+
 Untuk menukar nilai antar variabel di dalam python tidak perlu menggunakan variabel sementara, misalnya untuk menukar nilai antar variabel a,b,c
 
 Python::
@@ -17,7 +19,8 @@ Hal yang sama jika dilakukan dalam bahasa C::
 	c = temp
 	
 Mengambil Sebuah Nilai dari Dictionary
----------------------------------------
+======================================
+
 Misalnya akan diambil nilai berdasarkan kunci dari dictionary::
 
     d ={'try':'coba', 'again':'lagi'}
@@ -37,7 +40,7 @@ lebih sederhana dan mempersedikit kesalahan ketik
 
 
 Menampilkan index dari suatu iterable (list, dictionary)
---------------------------------------------------------
+========================================================
 
 Jika kita ingin menampilkan index dalam loop, kita bisa menggunakan enumerate, contoh : ::
 
@@ -52,7 +55,8 @@ Jika kita ingin menampilkan index dalam loop, kita bisa menggunakan enumerate, c
 
 
 Fungsi untuk Membuat Dictionary
---------------------------------
+===============================
+
 Dalam membuat aplikasi python, dictionary adalah tipe data yang sering digunakan. Misalnya ingin membuat dictionary untuk translasi bahasa Inggris ke Indonesia seperti ini::
 
     kamus = {'red' : 'merah', 'green' : 'hijau', 'blue' : 'biru'}
@@ -67,4 +71,4 @@ kita dapat memubuat fungsi yang memudahkan kita untuk membuat dictionary seperti
 dan hasilnya::
 
     >>> print kamus
-    {'blue': 'biru', 'green': 'hijau', 'red': 'merah'}
+    {'blue': 'biru', 'green': 'hijau', 'red': 'merah'} 
