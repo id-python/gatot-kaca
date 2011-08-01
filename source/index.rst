@@ -20,6 +20,7 @@ Daftar Isi
 Daftar Penulis
 --------------
 
+* `Fanami M. Ihsan <http://http://fanani.net/>`_
 * `Gilang Chandrasa <http://komunitasweb.com>`_
 * Mico Siahaan
 
