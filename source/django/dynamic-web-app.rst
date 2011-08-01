@@ -1,4 +1,4 @@
-Hallo Web Dimanis
+Hallo Web Dinamis
 ===========================
 
 Sebuah web dinamis isisnya selalu berubah secara real time. Kita akan membuat simple aplikasi web yang menampilkan waktu sesuai dengan sistem komputer kita. 

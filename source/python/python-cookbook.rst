@@ -60,9 +60,9 @@ Dalam membuat aplikasi python, dictionary adalah tipe data yang sering digunakan
 kita dapat memubuat fungsi yang memudahkan kita untuk membuat dictionary seperti di atas::
 
     def makedict(**kwargs):
-	    return kwargs
+        return kwargs
 		
-	kamus = makedict(red='merah', green='hijau', blue='biru')
+    kamus = makedict(red='merah', green='hijau', blue='biru')
 	
 dan hasilnya::
 
