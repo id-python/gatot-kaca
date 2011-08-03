@@ -46,10 +46,16 @@ Lainnya
 * :doc:`Git dan Github 101 <misc/git-and-github-101>`
 * :doc:`Vim, multiplatform editor <misc/vim>`
 
+
+Gatot Kaca Project
+==================
+* :doc:`Bagaimana cara berkontribusi di proyek gatotkaca? <internal/how-to-get-involved>`
+
+
 Daftar Penulis
 ==============
 
-* `Fanami M. Ihsan <http://http://fanani.net/>`_
+* `Fanani M. Ihsan <http://http://fanani.net/>`_
 * `Gilang Chandrasa <http://komunitasweb.com>`_
 * Mico Siahaan
                                                
