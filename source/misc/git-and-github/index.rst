@@ -36,31 +36,31 @@ Ada banyak sekali version control tool yang terkenal baik yang opensource maupun
 
 Pengenalan
 ==========
-* :doc:`Hello Git <intro/pengenalan>`
-* :doc:`Version Control <intro/pengenalan>`
-* :doc:`Bagaimana Git Bekerja <intro/pengenalan>`
-* :doc:`Direktori Git dan Working Direktory <intro/pengenalan>`
-* :doc:`Index Git <intro/pengenalan>`
+* :doc:`Hello Git`
+* :doc:`Version Control`
+* :doc:`Bagaimana Git Bekerja`
+* :doc:`Direktori Git dan Working Direktory <intro/git-dir-and-working-dir>`
+* :doc:`Index Git`
 
 Memulai Git
 ===========
-* :doc:`Installasi Git <intro/pengenalan>`
-* :doc:`Setting dan Inisialisasi <intro/pengenalan>`
+* :doc:`Installasi Git`
+* :doc:`Setting dan Inisialisasi`
 
 Penggunaan Dasar
 =================
-* :doc:`Memulai Project <intro/pengenalan>`
-* :doc:`Clone Project <intro/pengenalan>`
-* :doc:`Melihat Log <intro/pengenalan>`
-* :doc:`Membandingkan Hasil Commit <intro/pengenalan>`
-* :doc:`Bekerja Dengan Remote <intro/pengenalan>`
+* :doc:`Memulai Project`
+* :doc:`Clone Project`
+* :doc:`Melihat Log`
+* :doc:`Membandingkan Hasil Commit`
+* :doc:`Bekerja Dengan Remote`
 
 Github
 ======
-* :doc:`Pendaftaran Github <intro/pengenalan>`
-* :doc:`Membuat Repository <intro/pengenalan>`
-* :doc:`Inisialisasi Repo <intro/pengenalan>`
-* :doc:`Siap bekerja <intro/pengenalan>`
+* :doc:`Pendaftaran Github`
+* :doc:`Membuat Repository`
+* :doc:`Inisialisasi Repo`
+* :doc:`Siap bekerja`
 
 Penggunaan Tingkat Lanjut
 =========================
