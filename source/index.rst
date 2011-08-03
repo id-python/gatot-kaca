@@ -55,7 +55,7 @@ Gatot Kaca Project
 Daftar Penulis
 ==============
 
-* `Fanami M. Ihsan <http://fanani.net/>`_
+* `Fanani M. Ihsan <http://fanani.net/>`_
 * `Gilang Chandrasa <http://komunitasweb.com>`_
 * Mico Siahaan
                                                
