@@ -9,8 +9,8 @@ Gatot Kaca Project
 
 Selamat datang di Gatot Kaca Project. Ini adalah proyek penulisan artikel/tutorial sebagai sarana pengembangan programmer Python Indonesia.
 
-Ayo kita mulai belajar Python
-=============================
+Pengenalan Python
+=================
     
 * **Awal :**
   :doc:`Instalasi <intro/install>` 
@@ -24,10 +24,11 @@ List, Dictionaries dan Tuple
 ============================
 * :doc:`List dan Tuple <topics/data-structures/list-and-tuple>`
 
-Butuh bantuan
-=============
+Butuh bantuan?
+==============
 * Cobalah untuk membaca :doc:`FAQ <faq/index>`
 * Untuk tips dan trik, silahkan lihat :doc:`Buku Resep Python <topics/cookbook>`
+* Layangkan pertanyaan di `milis python Indonesia <http://tech.groups.yahoo.com/group/id-python/>`_
 
 
 Django
