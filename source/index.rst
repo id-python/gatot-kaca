@@ -43,7 +43,7 @@ Django
 Lainnya
 =======
 * :doc:`pip, virtualenv and virtualenvwrapper <topics/pip-virtualenv-virtualenvwrapper>`
-* :doc:`Git dan Github 101 <misc/git-and-github-101>`
+* :doc:`Git Dan Github <misc/gith-and-github/index>` 
 * :doc:`Vim, multiplatform editor <misc/vim>`
 
 
@@ -55,7 +55,7 @@ Gatot Kaca Project
 Daftar Penulis
 ==============
 
-* `Fanani M. Ihsan <http://http://fanani.net/>`_
+* `Fanami M. Ihsan <http://fanani.net/>`_
 * `Gilang Chandrasa <http://komunitasweb.com>`_
 * Mico Siahaan
                                                
