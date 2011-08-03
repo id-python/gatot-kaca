@@ -5,5 +5,8 @@ Tools
 .. toctree::
    :maxdepth: 1
 
-   vim
-   git-and-github-101
+Git Dan Github
+=================
+    
+* **Awal :**
+  :doc:`Instalasi <intro/install>` 
