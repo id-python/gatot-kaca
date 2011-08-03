@@ -33,6 +33,35 @@ Ada banyak sekali version control tool yang terkenal baik yang opensource maupun
 * Plastic SCM
 
 
-.. toctree::
-   :maxdepth: 1
 
+Pengenalan
+==========
+* :doc:`Hello Git <intro/pengenalan>`
+* :doc:`Version Control <intro/pengenalan>`
+* :doc:`Bagaimana Git Bekerja <intro/pengenalan>`
+* :doc:`Direktori Git dan Working Direktory <intro/pengenalan>`
+* :doc:`Index Git <intro/pengenalan>`
+
+Memulai Git
+===========
+* :doc:`Installasi Git <intro/pengenalan>`
+* :doc:`Setting dan Inisialisasi <intro/pengenalan>`
+
+Penggunaan Dasar
+=================
+* :doc:`Memulai Project <intro/pengenalan>`
+* :doc:`Clone Project <intro/pengenalan>`
+* :doc:`Melihat Log <intro/pengenalan>`
+* :doc:`Membandingkan Hasil Commit <intro/pengenalan>`
+* :doc:`Bekerja Dengan Remote <intro/pengenalan>`
+
+Github
+======
+* :doc:`Pendaftaran Github <intro/pengenalan>`
+* :doc:`Membuat Repository <intro/pengenalan>`
+* :doc:`Inisialisasi Repo <intro/pengenalan>`
+* :doc:`Siap bekerja <intro/pengenalan>`
+
+Penggunaan Tingkat Lanjut
+=========================
+* :doc:`Update Next Time<intro/pengenalan>`
