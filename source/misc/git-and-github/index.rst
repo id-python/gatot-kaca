@@ -25,7 +25,7 @@ Ada banyak sekali version control tool yang terkenal baik yang opensource maupun
 * Monotone
 * SVK
 
-**Opensource**
+**Property**
 
 * BitKeeper
 * Code Co-op
