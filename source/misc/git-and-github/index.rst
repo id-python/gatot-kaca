@@ -17,7 +17,7 @@ Pengenalan
 Memulai Git
 ===========
 * :doc:`Installasi Git <intro/installasi>`
-* :doc:`Setting dan Inisialisasi`
+* :doc:`Konfigurasi dan Inisialisasi <intro/Setup-and-Initialization>`
 
 Penggunaan Dasar
 =================
