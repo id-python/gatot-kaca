@@ -1,6 +1,6 @@
 
 Apa itu Git?
-------------
+============
 
 Git merupakan sebuah version control yang berguna untuk melacak sebuah perubahan source code atau file. Sebagian juga ada yang menyebut dengan revision control, source dan code management. Pada intinya semua mengacu pada fungsi dan tujuan yang sama.
 
