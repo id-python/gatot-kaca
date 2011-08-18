@@ -20,7 +20,7 @@ Memulai Git
 
 Penggunaan Dasar
 =================
-* :doc:`Memulai Project`
+* :doc:`Memulai Project <basic-usage/initialization>`
 * :doc:`Clone Project`
 * :doc:`Melihat Log`
 * :doc:`Membandingkan Hasil Commit`
