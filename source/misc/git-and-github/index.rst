@@ -22,7 +22,7 @@ Penggunaan Dasar
 =================
 * :doc:`Memulai Project <basic-usage/initialization>`
 * :doc:`Clone Project`
-* :doc:`Melihat Log`
+* :doc:`Melihat Log <basic-usage/logging>`
 * :doc:`Membandingkan Hasil Commit`
 * :doc:`Bekerja Dengan Remote`
 
