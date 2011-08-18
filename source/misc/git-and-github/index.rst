@@ -10,9 +10,8 @@ Pengenalan
 ==========
 * :doc:`Pengenalan Git <intro/pengenalan>`
 * :doc:`Version Control`
-* :doc:`Bagaimana Git Bekerja`
+* :doc:`Alur kerja dengan GIT <intro/workflow>`
 * :doc:`Direktori Git dan Working Direktory <intro/git-dir-and-working-dir>`
-* :doc:`Index Git`
 
 Memulai Git
 ===========
