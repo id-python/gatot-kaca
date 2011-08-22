@@ -1,57 +1,28 @@
-Git Dan Github
-=================
 
-Apa itu Git?
-------------
+Index
+=====
 
-Git merupakan sebuah version control yang berguna untuk melacak sebuah perubahan code. Sebagian juga ada yang menyebut dengan revision control, source code management. Pada intinya semua mengacu pada fungsi dan tujuan yang sama.
+Selamat datan di materi Git dan Github . Pada bagian ini kita akan belajar mengenal sebuah version control yang terkenal yaitu git. Kami tahu bahwa penggunaan version control di Indonesia jarang digunakan oleh programmer. Padahal penggunaan version contol sangat biasa digunakan oleh progammer di dunia dan hampir menjadi tool wajib untuk pengembangan softwaer open source di dunia. Oleh karena itu dirahapkan modul ini bisa menbantu para programmer di Indonesia agar software yang mereka buat bisa bersaing di dunia Internasional.
 
-Bagi Anda yang bergelut didunia programming , tidaklah lengkah jika belum menguasai sebuah version control karena dengan version control kita bisa melacak perubahan code dari waktu ke waktu. Disamping itu penggunaan version control akan mebnatu jika kita bekerja dengan jumlah kelopok tim yang sangat besar . 
-
-Ada banyak sekali version control tool yang terkenal baik yang opensource maupun Proprietary , seperti berikut :
-
-**Opensource**
-
-* Aegis
-* ArX
-* Bazaar archives
-* Codeville
-* Darcs
-* DCVS
-* Fossil
-* Git to be fast, flexible, and robust
-* LibreSource
-* Mercurial
-* Monotone
-* SVK
-
-**Property**
-
-* BitKeeper
-* Code Co-op
-* Sun WorkShop TeamWare
-* Plastic SCM
-
-
+Berikut ini adalah daftar isi yang akan kita pelajari dalam modul git dan github :
 
 Pengenalan
 ==========
-* :doc:`Hello Git`
+* :doc:`Pengenalan Git <intro/pengenalan>`
 * :doc:`Version Control`
-* :doc:`Bagaimana Git Bekerja`
+* :doc:`Alur kerja dengan GIT <intro/workflow>`
 * :doc:`Direktori Git dan Working Direktory <intro/git-dir-and-working-dir>`
-* :doc:`Index Git`
 
 Memulai Git
 ===========
-* :doc:`Installasi Git`
-* :doc:`Setting dan Inisialisasi`
+* :doc:`Installasi Git <starting/installasi>`
+* :doc:`Konfigurasi dan Inisialisasi <starting/Setup-and-Initialization>`
 
 Penggunaan Dasar
 =================
-* :doc:`Memulai Project`
+* :doc:`Memulai Project <basic-usage/initialization>`
 * :doc:`Clone Project`
-* :doc:`Melihat Log`
+* :doc:`Melihat Log <basic-usage/logging>`
 * :doc:`Membandingkan Hasil Commit`
 * :doc:`Bekerja Dengan Remote`
 
